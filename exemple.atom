@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<atom version="1.0">
+   rs <channel>
+        <title>Deportes tecnologicos</title>
+        <link> <a href="exemple.html"/> </link>
+        <description>Cana de deportes para progamadores deportistas</description>
+        <item>
+            <title>Un programador lesionado salta al campo</title>
+            <link>http://example.com/2002/09/01</link>
+            <description>Un programador lesionado salta al campo y empieza a jugar pese a su estado y su equipo queda descalificado por incumplir las normas del juego.</description>
+        </item>
+        <item>
+            <title>Equipo de programadores celebra la victoria sin jugar</title>
+            <link>http://example.com/2002/09/02</link>
+            <description>El equipo de Los Suricatos celebra su victoria porque un jugador lesionado del equipo rival salta al campo incumpliendo las normas, segun
+                nos dice el capitan de Los Suricatos: No sabemos porque lo ha hecho, pero seguro es porque sabia lo que se le venia y no queria ver su equipo perder.
+            </description>
+        </item>
+        <item>
+            <title>El asaltante de campos lesionado</title>
+            <link>http://example.com/2002/09/03</link>
+            <descripcion>El asaltante de campos lesionado, ese es el nuevo apodo que posee Buytrax, jugador de Dam Gaming que se encontraba lesionado cuando salto al campo
+                incumpliendo las normas del juego, y descalificando automaticamente a su equipo frente a Los Suricatos, su equipo contrario.
+            </descripcion>
+        </item>
+        <item>
+            <title>El capitan de Dam Gaming anuncia su retirada</title>
+            <link>http://example.com/2002/09/04</link>
+            <description>El capitan de Dam Gaming "Àlex Ramírez" anuncia su retirada debido a los insultos por no poder controlar al asaltante de campos lesionado, en una
+                rueda de prensa anunciaba: Aún no sabemos porque lo hizo, solo sabemos que era mi responsabilidad detenerlo y no pude hacerlo, de tal modo que anuncio mi 
+                retirada como capitan de Dam Gaming i como jugador professional de por vida.
+            </description>
+        </item>
+        <item>
+            <title>Buytrax reconoce su traicion hacia Dam Gaming</title>
+            <link>http://example.com/2002/09/05</link>
+            <description>El ahora ex-jugador de Dam Gaming Buytrax, mas conocido por su nuevo apodo, el asaltador de campos lesionado, anunciaba esta mañana en una rueda de prensa:
+                Me declaro absolutamente culpable de los hechos, he de confesar que soy hincha de Los Suricatos desde pequeñito y vi como entrenaban mis compañeros para este 
+                evento, sabia que era impossible que fueran derrotado así pues, hice lo que creí más correcto en ese momento, incumplir las normas para hacer que Los Suricatos
+                ganaran.</description>
+        </item>
+    </channel>
+</atom>
